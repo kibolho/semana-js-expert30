@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "publish": "heroku apps:create",
+    "unpublish": "heroku apps:delete",
     "start": "node src/",
     "dev": "npx nodemon src/",
     "test": "echo \"Error: no test specified\" && exit 1"

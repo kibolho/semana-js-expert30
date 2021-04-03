@@ -1,13 +1,15 @@
 {
-  "name": "@erickwendel/hacker-chat-client",
+  "name": "@kibolho/hacker-chat-client",
   "version": "2.0.0",
-  "description": "",
+  "description": "Chat made in semana-js-expert30",
   "main": "index.js",
   "type": "module",
   "bin": {
     "hacker-chat": "index.js"
   },
   "scripts": {
+    "publish": "npm publish --access public ",
+    "unpublish": "npm unpublish --force",
     "user01": "node index.js --username erickwendel --room sala01 --hostUri http://localhost:9898",
     "user02": "node index.js --username mariazinha --room sala01 --hostUri http://localhost:9898",
     "user03": "node index.js --username joazin --room sala02 --hostUri http://localhost:9898",

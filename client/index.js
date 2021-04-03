@@ -9,29 +9,28 @@
 
 /*
 
-npm i -g @erickwendel/hacker-chat-client
+npm i -g @abilioazevedo/hacker-chat-client
 
-npm unlink -g @erickwendel/hacker-chat-client
+npm unlink -g @abilioazevedo/hacker-chat-client
 hacker-chat \
-    --username erickwendel \
+    --username abilioazevedo \
     --room sala01
 
 ./index.js \
-    --username erickwendel \
+    --username abilioazevedo \
     --room sala01
 
 node index.js \
-    --username erickwendel \
+    --username abilioazevedo \
     --room sala01 \
     --hostUri localhost
 */
 
-import Events from 'events'
 import CliConfig from './src/cliConfig.js';
 import EventManager from './src/eventManager.js';
+import Events from 'events'
 import SocketClient from './src/socker.js';
 import TerminalController from "./src/terminalController.js";
-
 
 const [nodePath, filePath, ...commands] = process.argv
 const config = CliConfig.parseArguments(commands)
