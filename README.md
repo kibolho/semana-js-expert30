@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/kibolho/semana-js-expert30">
-     <img src=".github/Logo.jpg" alt="Logo">
+     <img src=".github/logo.png" alt="Logo">
   </a>
 </p>
 
@@ -84,13 +84,29 @@ Run the commands below to install and run the app.
 
   ```sh
     #Go to server folder
-    cd nlw4-nodejs
+    cd server
 
     #Install dependencies
     yarn
 
     #Start the server
     yarn dev
+   ```
+
+     ```sh
+    #Go to client folder
+    cd client
+
+    #Install dependencies
+    yarn
+
+    #Start the User01
+    yarn user01
+
+    #Open a new terminal
+    
+    #Start the User02
+    yarn user02
    ```
 
 [:arrow_up: Back to top](#table-of-Contents)
@@ -138,9 +154,8 @@ LinkedIn - <https://www.linkedin.com/in/abilioazevedo/>
 <!-- ACKNOWLEDGEMENTS -->
 # :exclamation: Acknowledgements
 
-* [Next Level Week](http://nextlevelweek.com/)
-* [Rocketseat](https://rocketseat.com.br/)
+* [Erick Wendel](https://erickwendel.com.br)
 
 [:arrow_up: Back to top](#table-of-Contents)
 
-![project preview](./screen-semanajs03.jpg)
+![project preview](.github/logo.jpg)
