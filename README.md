@@ -31,6 +31,7 @@
 - [:rocket: Getting Started](#rocket-getting-started)
   - [:clipboard: Prerequisites](#clipboard-prerequisites)
   - [:zap: Installation](#zap-installation)
+  - [:zap: Using with NPM Package](#zap-using-with-npm-package)
 - [:bulb: Contributing](#bulb-contributing)
 - [:memo: License](#memo-license)
 - [:e-mail: Contact](#e-mail-contact)
@@ -111,6 +112,19 @@ Run the commands below to install and run the app.
 
 [:arrow_up: Back to top](#table-of-Contents)
 
+## :zap: Using with NPM Package 
+
+```bash
+  npm -G @kibolho/hacker-chat-client
+  hacker-chat --username abilio
+```
+or
+```bash
+  npx @kibolho/hacker-chat-client && hacker-chat --username abilio
+```
+
+
+[:arrow_up: Back to top](#table-of-Contents)
 
 <!-- CONTRIBUTING -->
 # :bulb: Contributing
