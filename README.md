@@ -93,7 +93,7 @@ Run the commands below to install and run the app.
     yarn dev
    ```
 
-     ```sh
+  ```sh
     #Go to client folder
     cd client
 
@@ -104,7 +104,7 @@ Run the commands below to install and run the app.
     yarn user01
 
     #Open a new terminal
-    
+
     #Start the User02
     yarn user02
    ```
