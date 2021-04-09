@@ -1,10 +1,10 @@
 <!-- BADGES -->
 <p align="center">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kibolho/nlw4-nodejs-nps?color=green">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/kibolho/nlw4-nodejs-nps">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/kibolho/nlw4-nodejs-nps">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/kibolho/nlw4-nodejs-nps">
-  <img alt="GitHub" src="https://img.shields.io/github/license/kibolho/nlw4-nodejs-nps">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kibolho/semana-js-expert30?color=green">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/kibolho/semana-js-expert30">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/kibolho/semana-js-expert30">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/kibolho/semana-js-expert30">
+  <img alt="GitHub" src="https://img.shields.io/github/license/kibolho/semana-js-expert30">
   <a href="https://www.linkedin.com/in/abilioazevedo/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555">
   </a>
